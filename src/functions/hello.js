@@ -12,10 +12,13 @@
 // Borra carpetas, crea y copia de nuevo, crea nueva carpeta dist
 //  "build": "rd /s /q dist && rd /s /q functions && md dist && Xcopy src\\functions functions\\"
 
+//1) npm run build
+//2) ntl dev
+
 
 exports.handler = async () => {
   return {
     statusCode: 200,
-    body: 'nuevo world!',
+    body: 'ooookkk world!',
   };
 };
