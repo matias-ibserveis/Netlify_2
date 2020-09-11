@@ -20,3 +20,7 @@
 // https://ourcodeworld.com/articles/read/615/learn-how-to-solve-the-npm-error-cp-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file
 // https://www.cygwin.com/
 
+
+// GIT IGNORE:  
+// git update-index --assume-unchanged <file>
+// https://stackoverflow.com/questions/4308610/how-to-ignore-certain-files-in-git
