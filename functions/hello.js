@@ -16,6 +16,6 @@
 exports.handler = async () => {
   return {
     statusCode: 200,
-    body: 'nuevo world!',
+    body: 'otro world!',
   };
 };
