@@ -19,6 +19,6 @@
 exports.handler = async () => {
   return {
     statusCode: 200,
-    body: 'ooookkk world!',
+    body: 'Ahhhora world!',
   };
 };
